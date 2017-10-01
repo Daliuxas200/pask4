@@ -1,0 +1,38 @@
+.visuma {
+    font-family: 'Mada', sans-serif;
+    border: 1px black solid;
+    margin: 50px 5%;
+    background-color: lightgrey;
+}
+
+img {
+    margin-left: 30%;
+    width: 40%;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+p {
+    background-color: darkgrey;
+    color: white;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: normal;
+    margin: 30px;
+    padding: 10px 40px 10px 10px;
+}
+
+.first {
+    color: black;
+}
+
+.second {
+    color: blue;
+}
+
+.third {
+    color: red;
+}

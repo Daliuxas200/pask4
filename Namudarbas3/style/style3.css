@@ -1,0 +1,62 @@
+body {
+    font-family: 'Oswald', sans-serif;
+}
+
+img {
+    width: 150px;
+    padding: 25px;
+}
+
+.circle {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: white;
+    border: 2px solid black;
+    display: block;
+    margin: 40px auto;
+}
+
+h1 {
+    text-transform: capitalize;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
+
+.first {
+    text-transform: uppercase;
+}
+
+p {
+    font-size: 20px;
+    color: lightgrey;
+    text-align: center;
+    margin: 0 10%;
+}
+
+button {
+    background-color: black;
+    border: none;
+    color: white;
+    width: 150px;
+    padding: 5px 0 5px 0;
+    font-size: 20px;
+    transition-duration: 0.4s;
+    text-align: center;
+}
+
+button:hover {
+    background-color: gray;
+}
+
+.mygtukai {
+    display: block;
+    width: 400px;
+    margin: 30px auto;
+}
+
+.mygtukas {
+    display: inline;
+    margin: 0 20px;
+}
